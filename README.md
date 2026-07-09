@@ -2,7 +2,7 @@
 
 # Hey there, I'm Vijay Kiran 👋
 
-**Full Stack Developer · AI Enthusiast · IoT Tinkerer**
+**Full Stack Developer · AI Enthusiast ·**
 
 B.Tech Applied Engineering student building real-world solutions with modern web tech, AI, and hardware.
 
@@ -98,7 +98,6 @@ B.Tech Applied Engineering student building real-world solutions with modern web
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🏟️ **Sports Live App** | Real-time sports scores and live updates | React, Node.js, WebSockets |
 | 📡 **WiTrack** | Motion tracking using ESP32 CSI signals | ESP32, Python, IoT |
 | 🌐 **MERN Projects** | Full-stack web applications | MongoDB, Express, React, Node.js |
 
