@@ -1,44 +1,41 @@
 <div align="center">
 
-# Vijay Kiran
+# Hey there, I'm Vijay Kiran 👋
 
-### Full Stack Developer | ML & AI Enthusiast
+**Full Stack Developer · AI/ML Enthusiast**
 
-B.Tech Applied Engineering student interested in building real-world applications
-using full-stack development, machine learning, AI, and IoT.
+B.Tech Applied Engineering student building real-world solutions with modern web tech, AI/ML, and hardware.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-kiran-yarra-1a7b3b321/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijaykiran06)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](#)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- B.Tech Applied Engineering student at Thapar University
-- Full Stack Developer working mainly with the MERN stack
-- Interested in Machine Learning, Data Science, Generative AI and IoT
-- Working with ESP32, Wi-Fi CSI and signal processing
-- Currently improving my DSA and system design skills
-- Interested in building AI-powered web applications
-- Actively exploring open-source development and collaborative projects
-- Interested in combining software, machine learning and hardware
+- 🔭 Currently building a **Real-time Sports Live App**, **WiTrack** (ESP32 CSI Motion Tracking), and **MERN stack projects**
+- 🌱 Actively learning **System Design**, **WebSockets**, **DSA**, and **Generative AI / Machine Learning**
+- 🧠 Exploring **ML model building**, **data analysis**, and **AI integration into full-stack apps**
+- 👯 Open to collaborate on **open-source projects**, **MERN apps**, **AI/ML tools**, and **IoT solutions**
+- 🤝 Seeking guidance on **cloud deployment**, **advanced system design**, and **ML model deployment**
+- 💬 Ask me about **React**, **Node.js**, **Express**, **MongoDB**, **ESP32**, **Machine Learning**, or **DSA**
+- ⚡ Fun fact: I turn ideas into working apps — and I genuinely enjoy debugging real-world problems
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-### Programming Languages
-
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ### Frontend
-
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -47,121 +44,83 @@ using full-stack development, machine learning, AI, and IoT.
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 
-- React
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
-- Angular
-- Vite
-- Framer Motion
-- Responsive UI
-- REST API integration
-
-### Backend and Database
-
+### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- MySQL
-- REST APIs
-- JWT Authentication
-- bcrypt
-- CORS
-- Backend architecture
+### Machine Learning & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23FA0F00.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
----
-
-## Machine Learning and Data Science
-
-### Data Science
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Data & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23444876.svg?style=for-the-badge&logo=python&logoColor=white)
 
-- Data Cleaning
-- Data Preprocessing
-- Exploratory Data Analysis
-- Data Visualization
-- Feature Engineering
-- Dimensionality Reduction
-- Principal Component Analysis (PCA)
-- Statistical Analysis
-- Feature Extraction
-- Model Evaluation
-- Classification
-- Regression
-- Clustering
-
-### Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Classification
-- Regression
-- Clustering
-- Dimensionality Reduction
-- PCA
-- Feature Engineering
-- Model Training
-- Model Evaluation
-- Reinforcement Learning
-- Deep Q-Learning (DQN)
-- Double Q-Learning
-
-### AI
-
-- Generative AI
-- Natural Language Processing
-- Intent Classification
-- AI Assistants
-- Prompt Engineering
-- LLM Integration
-- AI-powered Applications
-- AI and Web Application Integration
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
 
-## IoT and Signal Processing
+## 📊 GitHub Stats
 
-### ESP32 and Wi-Fi CSI
+<div align="center">
 
-Currently working on WiTrack, an ESP32-based project exploring Wi-Fi Channel State Information for human sensing and classification.
+<img src="https://github-readme-stats.vercel.app/api?username=vijaykiran06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" alt="GitHub Stats" />
 
-Areas of work include:
+<br/>
 
-- ESP32
-- Wi-Fi CSI
-- CSI Data Collection
-- IQ Data Extraction
-- Signal Processing
-- Feature Extraction
-- Time-Series Analysis
-- Spectrograms
-- Signal Visualization
-- Machine Learning Classification
-- Real-Time Data Processing
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaykiran06&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-Project pipeline:
+<br/>
 
-```text
-ESP32
-   |
-CSI Data
-   |
-Signal Processing
-   |
-Feature Extraction
-   |
-Machine Learning
-   |
-Prediction
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaykiran06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=vijaykiran06&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 📡 **WiTrack** | Motion tracking using ESP32 CSI signals | ESP32, Python, IoT, Signal Processing |
+| 🏅 **Real-time Sports Live App** | Live sports scores and stats platform | MERN Stack, WebSockets |
+| 🌐 **MERN Projects** | Full-stack web applications | MongoDB, Express, React, Node.js |
+| 🤖 **ML Projects** | Machine learning models and data analysis | Python, Pandas, scikit-learn, TensorFlow |
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vijaykiran06&color=0e75b6&style=flat)
+
+*"Code is not just logic — it's problem solving in action."*
+
+</div>
