@@ -1,4 +1,4 @@
-# Vijay Kiran Yarra
+# Vijay Kiran 
 
 ### Full-Stack Engineering · Applied AI · Open Source
 
